@@ -1,0 +1,2 @@
+# Bus Distance
+In the city where I live, our buses have an automatic bus tracking system.  However, while it provides a map of where any bus is, it doesn't give any estimate of when the bus will arrive.  Since that's what I really wanted to know when looking at a bus map, I created a simple app that pulls the bus tracker's json API, and then uses some google maps APIs to estimate when the bus will arrive at a given location.
